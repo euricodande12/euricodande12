@@ -1,4 +1,4 @@
-<h2 align="center"> Olá! Eu sou o Eurico Dande. 👋</h2>  
+<h2 align="center"> Hello! I am Eurico Dande. 👋</h2>  
 
 <div align="center">
   <a href="https://github.com/euricodande12">
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/eurico-dande-22237223b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3 align="center">Obrigado, e volte sempre! 😃</h3
+<h3 align="center">Thank you a lot, I'll be waiting for you again! 😃</h3
 
 <!--
 **euricodande12/euricodande12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
